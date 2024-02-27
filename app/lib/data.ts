@@ -1,4 +1,4 @@
-import { sql } from '@vercel/postgres';
+import { sql } from '@vercel/postgres'; // 서버 컴포넌트에서 sql을 동작시키기 위한 import
 import {
   CustomerField,
   CustomersTableType,
